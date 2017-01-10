@@ -1,7 +1,7 @@
 Speedtest
 =========
 
-This plugin creates a new utility channel within [Plex Media Server](https://plex.tv/) (PMS) to test internet download/upload speed.  Utilizes [speedtest-cli](https://github.com/sivel/speedtest-cli), which is a pyton library for testing internet bandwidth using [speedtest.net](https://www.speedtest.net).
+This plugin creates a new utility channel within [Plex Media Server](https://plex.tv/) (PMS) to test internet download/upload speed.  Utilizes [speedtest-cli](https://github.com/sivel/speedtest-cli), which is a Python library for testing internet bandwidth using [speedtest.net](https://www.speedtest.net).
 
 > **Note:** the author of this plugin has no affiliation with [speedtest.net](https://www.speedtest.net).
 
